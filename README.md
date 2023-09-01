@@ -1,6 +1,6 @@
 # walink
 
-A new Flutter project.
+Whatsapp direct number without save contact
 
 ## Getting Started
 
